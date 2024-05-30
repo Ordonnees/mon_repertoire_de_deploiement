@@ -1,2 +1,6 @@
 streamlit
 joblib
+streamlit
+requests
+#joblib
+scikit-learn==1.3.1
